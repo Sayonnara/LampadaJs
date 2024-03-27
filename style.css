@@ -1,0 +1,23 @@
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   /* background-image: url('img/desligada.png');*/
+    
+}
+
+#turnOn{
+    color: rgb(255, 255, 255);
+    background-color: green ;
+    border-radius: 4px;
+    width: 10vmax;
+}
+
+#turnOff{
+    color: rgb(240, 240, 240);
+    background-color: red ;
+    border-radius: 4px;
+    width: 10vmax;
+    
+
+}
