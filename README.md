@@ -3,7 +3,7 @@
 # Objetivo 🎯
 > Fazer a lampâda ligar e desliga e com duplo click ela se quebra
 
-# Requesitos
+# Requisitos
 * O básico de HTML, CSS e JS, ja conseguimos implementar
 * Computador ou Smartphone
 * Internet
