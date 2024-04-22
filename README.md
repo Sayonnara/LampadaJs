@@ -1,6 +1,4 @@
-# LampadaJs
-
-Esse projeto é simples, mas é o começo para introdução e começarmos a entendermos o verdadeiro potencial do #JS
+# Lampada com Js
 
 # Objetivo 🎯
 > Fazer a lampâda ligar e desliga e com duplo click ela se quebra
